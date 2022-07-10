@@ -1,0 +1,1292 @@
+fileFormatVersion: 2
+guid: 34010553eb975374b96c2d04e6a4fd92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2399931941764777550
+    second: facebookPreview_0
+  - first:
+      213: -6382217549025549894
+    second: facebookPreview_1
+  - first:
+      213: -8224657567416462886
+    second: facebookPreview_2
+  - first:
+      213: 6762744263968091908
+    second: facebookPreview_3
+  - first:
+      213: -7128396396831234449
+    second: facebookPreview_4
+  - first:
+      213: -3954148464121684500
+    second: facebookPreview_5
+  - first:
+      213: -8110022974472095319
+    second: facebookPreview_6
+  - first:
+      213: -6654617003189063468
+    second: facebookPreview_7
+  - first:
+      213: -3064638932850860087
+    second: facebookPreview_8
+  - first:
+      213: -1267509353643787822
+    second: facebookPreview_9
+  - first:
+      213: 1476273776104247760
+    second: facebookPreview_10
+  - first:
+      213: 1251103875320668755
+    second: facebookPreview_11
+  - first:
+      213: 3499763909371460858
+    second: facebookPreview_12
+  - first:
+      213: 7193001779838277472
+    second: facebookPreview_13
+  - first:
+      213: 3881926170124168223
+    second: facebookPreview_14
+  - first:
+      213: 3376237786867876390
+    second: facebookPreview_15
+  - first:
+      213: 540649960284683538
+    second: facebookPreview_16
+  - first:
+      213: 5081936601724857095
+    second: facebookPreview_17
+  - first:
+      213: -1880495859479229381
+    second: facebookPreview_18
+  - first:
+      213: -7056524159080297145
+    second: facebookPreview_19
+  - first:
+      213: 2703698676567162299
+    second: facebookPreview_20
+  - first:
+      213: 7866961188239830231
+    second: facebookPreview_21
+  - first:
+      213: -2124809980420159658
+    second: facebookPreview_22
+  - first:
+      213: 2741836131780792768
+    second: facebookPreview_23
+  - first:
+      213: 6095635248883248566
+    second: facebookPreview_24
+  - first:
+      213: -2206293399970771465
+    second: facebookPreview_25
+  - first:
+      213: -1435370063037985793
+    second: facebookPreview_26
+  - first:
+      213: -2135082855400306785
+    second: facebookPreview_27
+  - first:
+      213: -3378832242573627048
+    second: facebookPreview_28
+  - first:
+      213: 3190553559083056972
+    second: facebookPreview_29
+  - first:
+      213: 8419959496661849454
+    second: facebookPreview_30
+  - first:
+      213: -3918235066070531002
+    second: facebookPreview_31
+  - first:
+      213: -6595747400232216933
+    second: facebookPreview_32
+  - first:
+      213: -5466925098890838714
+    second: facebookPreview_33
+  - first:
+      213: -8161687645181487832
+    second: facebookPreview_34
+  - first:
+      213: 5999522582064384281
+    second: facebookPreview_35
+  - first:
+      213: 1492923435837447878
+    second: facebookPreview_36
+  - first:
+      213: 1820932380776860160
+    second: facebookPreview_37
+  - first:
+      213: -4250434001566115502
+    second: facebookPreview_38
+  - first:
+      213: 6034956180669509431
+    second: facebookPreview_39
+  - first:
+      213: 1376128341486984617
+    second: facebookPreview_40
+  - first:
+      213: 1744681047626169002
+    second: facebookPreview_41
+  - first:
+      213: -8688635235033670751
+    second: facebookPreview_42
+  - first:
+      213: -26800642976869500
+    second: facebookPreview_43
+  - first:
+      213: 8854407586471482772
+    second: facebookPreview_44
+  - first:
+      213: 2753720734032201740
+    second: facebookPreview_45
+  - first:
+      213: 6206862485545829578
+    second: facebookPreview_46
+  - first:
+      213: 4488029891501898903
+    second: facebookPreview_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: facebookPreview_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 465
+        width: 517
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c00ab2654e4120800000000000000
+      internalID: 2399931941764777550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 324
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1611f14fecd67a0800000000000000
+      internalID: -6382217549025549894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 324
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1d9eeb4852cdd80800000000000000
+      internalID: -8224657567416462886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_3
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 324
+        width: 110
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fe0a8d3181add50800000000000000
+      internalID: 6762744263968091908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 358
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -21}
+        - {x: -26, y: 21}
+        - {x: 8, y: 21}
+        - {x: 26, y: 4}
+        - {x: 26, y: -4}
+        - {x: 8, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6623b4be39d21d90800000000000000
+      internalID: -7128396396831234449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_5
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 383
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -26}
+        - {x: -5, y: -26}
+        - {x: -21, y: -9}
+        - {x: -21, y: 26}
+        - {x: 21, y: 26}
+        - {x: 21, y: -9}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceddedefbea0029c0800000000000000
+      internalID: -3954148464121684500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_6
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 358
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -21}
+        - {x: -25.5, y: -4}
+        - {x: -25.5, y: 4}
+        - {x: -8.5, y: 21}
+        - {x: 25.5, y: 21}
+        - {x: 25.5, y: -21}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9755ec219637f80800000000000000
+      internalID: -8110022974472095319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 324
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d034a0e71d06a3a0800000000000000
+      internalID: -6654617003189063468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 324
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: -25.5}
+        - {x: -21, y: 9.5}
+        - {x: -3, y: 25.5}
+        - {x: 4, y: 25.5}
+        - {x: 21, y: 9.5}
+        - {x: 21, y: -25.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf9792b0273875d0800000000000000
+      internalID: -3064638932850860087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 277
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9b39a55f6e86ee0800000000000000
+      internalID: -1267509353643787822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 277
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d11bef7d27cc7410800000000000000
+      internalID: 1476273776104247760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 277
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3526a919850dc5110800000000000000
+      internalID: 1251103875320668755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_12
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 277
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc71d7abb8a19030800000000000000
+      internalID: 3499763909371460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 277
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0675304320da2d360800000000000000
+      internalID: 7193001779838277472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 277
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c2b8ec84f5fd530800000000000000
+      internalID: 3881926170124168223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 255
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622c28b016ecade20800000000000000
+      internalID: 3376237786867876390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 255
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df89e3646c08700800000000000000
+      internalID: 540649960284683538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 255
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70baddcf96aa68640800000000000000
+      internalID: 5081936601724857095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 255
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cc526aaf227e5e0800000000000000
+      internalID: -1880495859479229381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_19
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 255
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d8e051aa0321e90800000000000000
+      internalID: -7056524159080297145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 255
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdba7c1f97758520800000000000000
+      internalID: 2703698676567162299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce1de058f0d2d60800000000000000
+      internalID: 7866961188239830231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 236
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570add94982382e0800000000000000
+      internalID: -2124809980420159658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1102b5f65fc0620800000000000000
+      internalID: 2741836131780792768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 236
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd290a76fb089450800000000000000
+      internalID: 6095635248883248566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_25
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 236
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd047897dba161e0800000000000000
+      internalID: -2206293399970771465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 236
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb0467588a841ce0800000000000000
+      internalID: -1435370063037985793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9786d58479ae52e0800000000000000
+      internalID: -2135082855400306785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_28
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85133c92af9fb11d0800000000000000
+      internalID: -3378832242573627048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff006ce8f174c20800000000000000
+      internalID: 3190553559083056972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_30
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 193
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65d4b52d84b9d470800000000000000
+      internalID: 8419959496661849454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_31
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644036497f1af99c0800000000000000
+      internalID: -3918235066070531002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_32
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 193
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d3fc6fa23774a0800000000000000
+      internalID: -6595747400232216933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64db1fa66949124b0800000000000000
+      internalID: -5466925098890838714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_34
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 194
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255345445cdbbe80800000000000000
+      internalID: -8161687645181487832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 194
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c1e56006924350800000000000000
+      internalID: 5999522582064384281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 194
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce52fd74fde7b410800000000000000
+      internalID: 1492923435837447878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a06344a50454910800000000000000
+      internalID: 1820932380776860160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_38
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 194
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259d86b9bcc6305c0800000000000000
+      internalID: -4250434001566115502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73faad7fba870c350800000000000000
+      internalID: 6034956180669509431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_40
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 132
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adddaf7f6df81310800000000000000
+      internalID: 1376128341486984617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 132
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3d1a4b2a563810800000000000000
+      internalID: 1744681047626169002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab10e0c944cb6780800000000000000
+      internalID: -8688635235033670751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_43
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 131
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839c9b05f8c0aff0800000000000000
+      internalID: -26800642976869500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_44
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 131
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495182889cc21ea70800000000000000
+      internalID: 8854407586471482772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_45
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 131
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c080e92fa6e273620800000000000000
+      internalID: 2753720734032201740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_46
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 131
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac448a49b84332650800000000000000
+      internalID: 6206862485545829578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: facebookPreview_47
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 131
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3e40686fa84e30800000000000000
+      internalID: 4488029891501898903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
