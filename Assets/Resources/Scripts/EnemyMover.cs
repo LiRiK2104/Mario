@@ -8,11 +8,6 @@ public class EnemyMover : MonoBehaviour
     private int _layerMask = ~((1 << 8) | (1 << 11));
     private float _speed = 2;
 
-    public void Stop()
-    {
-        _speed = 0;
-    }
-    
     private void Update()
     {
         Move();
@@ -27,12 +22,18 @@ public class EnemyMover : MonoBehaviour
     {
         transform.Translate(Vector3.right * _speed * Time.deltaTime);
     }
+    
+    public void Stop()
+    {
+        _speed = 0;
+    }
 
     private void TryRotate()
     {
         if (_findingFloorZone.IsTouchingLayers(_layerMask) == false || _findingWallZone.IsTouchingLayers(_layerMask))
         {
-            transform.rotation *= Quaternion.AngleAxis(180, Vector3.up);
+            int turningAngle = 180;
+            transform.rotation *= Quaternion.AngleAxis(turningAngle, Vector3.up);
         }
     }
 }

@@ -31,6 +31,21 @@ public class PlatformMover : MonoBehaviour
         UpdateProgress();
     }
 
+    private void OnValidate()
+    {
+        MovePlatform(_startProgress);
+        _speed = Mathf.Clamp(_speed, _minSpeed, _maxSpeed);
+    }
+
+    private void OnDrawGizmos()
+    {
+        if (_pointA == null || _pointB == null)
+            return;
+                
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawLine(_pointA.position, _pointB.position);
+    }
+    
     private void UpdateProgress()
     {
         _progress += Time.deltaTime * _speed * (int)_direction;
@@ -56,21 +71,6 @@ public class PlatformMover : MonoBehaviour
             return;
         
         _platform.transform.position = Vector2.Lerp(_pointA.position, _pointB.position, progress);
-    }
-
-    private void OnValidate()
-    {
-        MovePlatform(_startProgress);
-        _speed = Mathf.Clamp(_speed, _minSpeed, _maxSpeed);
-    }
-
-    private void OnDrawGizmos()
-    {
-        if (_pointA == null || _pointB == null)
-            return;
-                
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawLine(_pointA.position, _pointB.position);
     }
 
     private enum Direction

@@ -8,7 +8,7 @@ public class PlayerSpawner : MonoBehaviour
     private Vector2 _spawnPosition;
     private Player _player;
 
-    void Start()
+    private void Start()
     {
         _player = FindObjectOfType<Player>();
         _spawnPosition = _player.transform.position;
@@ -19,15 +19,6 @@ public class PlayerSpawner : MonoBehaviour
         StartCoroutine(Respawn());
     }
 
-    private IEnumerator Respawn()
-    {
-        float respawnTime = 3;
-        yield return new WaitForSeconds(respawnTime);
-
-        _player.transform.position = _spawnPosition;
-        _player.Recover();
-    }
-
     public void UpdateRespawnPoint(CheckPoint checkPoint)
     {
         if (_spawnPriority < checkPoint.SpawnPriority)
@@ -35,5 +26,14 @@ public class PlayerSpawner : MonoBehaviour
             _spawnPriority = checkPoint.SpawnPriority;
             _spawnPosition =  checkPoint.transform.position;
         }
+    }
+    
+    private IEnumerator Respawn()
+    {
+        float respawnTime = 3;
+        yield return new WaitForSeconds(respawnTime);
+
+        _player.transform.position = _spawnPosition;
+        _player.Recover();
     }
 }

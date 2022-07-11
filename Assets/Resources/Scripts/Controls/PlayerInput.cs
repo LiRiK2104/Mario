@@ -1,7 +1,7 @@
 using UnityEngine;
 
 [RequireComponent(typeof(Player))]
-public class PlayerControls : MonoBehaviour
+public class PlayerInput : MonoBehaviour
 {
     private PlayerInputActions _playerInput;
     private Player _player;

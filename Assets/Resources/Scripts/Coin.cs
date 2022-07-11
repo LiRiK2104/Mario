@@ -20,7 +20,12 @@ public class Coin : PlayerTriggerZone
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _pointsCollector = FindObjectOfType<PointsCollector>();
     }
-    
+
+    private void OnValidate()
+    {
+        _points = Math.Max(_points, _minValue);
+    }
+
     protected override void Action(Player player)
     {
         Collider.enabled = false;
@@ -37,10 +42,5 @@ public class Coin : PlayerTriggerZone
 
         yield return new WaitForSeconds(waitingTime);
         Destroy(gameObject);
-    }
-
-    private void OnValidate()
-    {
-        _points = Math.Max(_points, _minValue);
     }
 }

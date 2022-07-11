@@ -11,15 +11,36 @@ public class CameraMover : MonoBehaviour
     private Vector2 _offset;
     private float _speed = 2;
 
-    void Start()
+    private void Start()
     {
         _player = FindObjectOfType<Player>();
         _offset = transform.position - _player.transform.position;
     }
 
-    void Update()
+    private void Update()
     {
         Move();
+    }
+    
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = Color.red;
+        Vector2 leftTop = new Vector2(_leftBorder, _topBorder);
+        Vector2 rightTop = new Vector2(_rightBorder, _topBorder);
+        Vector2 leftBottom = new Vector2(_leftBorder, _bottomBorder);
+        Vector2 rightBottom = new Vector2(_rightBorder, _bottomBorder);
+        Gizmos.DrawLine(leftTop, rightTop);
+        Gizmos.DrawLine(leftTop, leftBottom);
+        Gizmos.DrawLine(rightTop, rightBottom);
+        Gizmos.DrawLine(leftBottom, rightBottom);
+    }
+
+    private void OnValidate()
+    {
+        float minBordersDistance = 1;
+
+        _topBorder = Mathf.Max(_topBorder, _bottomBorder + minBordersDistance);
+        _rightBorder = Mathf.Max(_rightBorder, _leftBorder + minBordersDistance);
     }
 
     private void Move()
@@ -42,26 +63,5 @@ public class CameraMover : MonoBehaviour
         float y = Mathf.Clamp(cameraPos.y, _bottomBorder + halfScreenSize.y, _topBorder - halfScreenSize.y);
         
         Camera.main.transform.position = new Vector3(x, y, cameraPos.z);
-    }
-    
-    private void OnDrawGizmos()
-    {
-        Gizmos.color = Color.red;
-        Vector2 leftTop = new Vector2(_leftBorder, _topBorder);
-        Vector2 rightTop = new Vector2(_rightBorder, _topBorder);
-        Vector2 leftBottom = new Vector2(_leftBorder, _bottomBorder);
-        Vector2 rightBottom = new Vector2(_rightBorder, _bottomBorder);
-        Gizmos.DrawLine(leftTop, rightTop);
-        Gizmos.DrawLine(leftTop, leftBottom);
-        Gizmos.DrawLine(rightTop, rightBottom);
-        Gizmos.DrawLine(leftBottom, rightBottom);
-    }
-
-    private void OnValidate()
-    {
-        float minBordersDistance = 1;
-
-        _topBorder = Mathf.Max(_topBorder, _bottomBorder + minBordersDistance);
-        _rightBorder = Mathf.Max(_rightBorder, _leftBorder + minBordersDistance);
     }
 }

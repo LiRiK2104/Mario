@@ -1,7 +1,9 @@
 using System.Collections;
 using UnityEngine;
 
-[RequireComponent(typeof(EnemyMover))]
+[RequireComponent(
+    typeof(EnemyMover), 
+    typeof(Animator))]
 public class Enemy : MonoBehaviour
 {
     [SerializeField] private PlayerDeathZone _playerDeathZone;

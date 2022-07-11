@@ -12,8 +12,6 @@ public abstract class PlayerTriggerZone : MonoBehaviour
     {
         Collider = GetComponent<Collider2D>();
     }
-
-    protected abstract void Action(Player player);
     
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -22,4 +20,6 @@ public abstract class PlayerTriggerZone : MonoBehaviour
             Action(player);
         }
     }
+    
+    protected abstract void Action(Player player);
 }
