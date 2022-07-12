@@ -4,21 +4,20 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Text))]
 public class PointsDisplayer : MonoBehaviour
 {
+    [SerializeField] private PointsCollector _pointsCollector;
+    
     private Text _label;
-    private PointsCollector _pointsCollector;
-
     private int _minLabelLength = 5;
 
     private void Awake()
     {
         _label = GetComponent<Text>();
-        _pointsCollector = FindObjectOfType<PointsCollector>();
     }
 
     private void OnEnable()
     {
         _pointsCollector.PointsCollected += DisplayPoints;
-        DisplayPoints(_pointsCollector);
+        DisplayPoints();
     }
 
     private void OnDisable()
@@ -26,9 +25,9 @@ public class PointsDisplayer : MonoBehaviour
         _pointsCollector.PointsCollected -= DisplayPoints;
     }
 
-    private void DisplayPoints(PointsCollector pointsCollector)
+    private void DisplayPoints()
     {
-        _label.text = pointsCollector.Points.ToString();
+        _label.text = _pointsCollector.Points.ToString();
         UpdateLabel();
     }
 

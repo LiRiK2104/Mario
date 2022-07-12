@@ -2,18 +2,18 @@
 
 public class CameraMover : MonoBehaviour
 {
+    [SerializeField] private Player _player;
+    
     [SerializeField] private float _topBorder = 10;
     [SerializeField] private float _bottomBorder = 10;
     [SerializeField] private float _leftBorder = -10;
     [SerializeField] private float _rightBorder = 10;
     
-    private Player _player;
     private Vector2 _offset;
     private float _speed = 2;
 
     private void Start()
     {
-        _player = FindObjectOfType<Player>();
         _offset = transform.position - _player.transform.position;
     }
 

@@ -2,13 +2,13 @@
 
 public class Player : MonoBehaviour
 {
+    [SerializeField] private PlayerSpawner _playerSpawner;
     [SerializeField] private Collider2D _floorChecker;
    
     private static readonly int JumpFlag = Animator.StringToHash(PlayerAnimator.Triggers.Jump);
     private static readonly int IsWalking = Animator.StringToHash(PlayerAnimator.Flags.IsWalking);
     private static readonly int IsFalling = Animator.StringToHash(PlayerAnimator.Flags.IsFalling);
     
-    private PlayerSpawner _playerSpawner;
     private Rigidbody2D _rigidbody;
     private Animator _animator;
     private SpriteRenderer _spriteRenderer;
@@ -17,7 +17,6 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
-        _playerSpawner = FindObjectOfType<PlayerSpawner>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
         _rigidbody = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();

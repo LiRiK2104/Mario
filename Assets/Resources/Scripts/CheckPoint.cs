@@ -21,8 +21,7 @@ public class CheckPoint : MonoBehaviour
     private void Start()
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
-        _playerSpawner = FindObjectOfType<PlayerSpawner>();
-        
+
         _flag.SetActive(false);
     }
 
@@ -34,6 +33,11 @@ public class CheckPoint : MonoBehaviour
             _playerSpawner.UpdateRespawnPoint(this);
             Activate();
         }
+    }
+
+    public void Init(PlayerSpawner playerSpawner)
+    {
+        _playerSpawner = playerSpawner;
     }
 
     private void Activate()

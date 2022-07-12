@@ -1,16 +1,17 @@
 ﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerSpawner : MonoBehaviour
 {
-    [SerializeField] private int _spawnPriority = 0;
+    [SerializeField] private Player _player;
+    [SerializeField] private List<CheckPoint> _checkPoints = new List<CheckPoint>();
     
+    private int _spawnPriority = 0;
     private Vector2 _spawnPosition;
-    private Player _player;
 
     private void Start()
     {
-        _player = FindObjectOfType<Player>();
         _spawnPosition = _player.transform.position;
     }
 

@@ -18,12 +18,16 @@ public class Coin : PlayerTriggerZone
     {
         base.Awake();
         _spriteRenderer = GetComponent<SpriteRenderer>();
-        _pointsCollector = FindObjectOfType<PointsCollector>();
     }
 
     private void OnValidate()
     {
         _points = Math.Max(_points, _minValue);
+    }
+
+    public void Init(PointsCollector pointsCollector)
+    {
+        _pointsCollector = pointsCollector;
     }
 
     protected override void Action(Player player)
